@@ -16,8 +16,10 @@ I'm a data scientist with over 2 years of experience in the field. My expertise 
 # 🌱 Projects
 Here are some of my recent projects that showcase my skills and expertise:
 
-## Forcast Forex With Deep Learning Models
-This project uses deep learning models, such as Recurrent neural network (RNN) and Long-Short Term Memory (LSTM) and Gated recurrent unit (GRU), to forecast forex prices. The models are trained on historical forex data and are capable of predicting future prices with high accuracy. Check out the [repository](https://github.com/MahdiNavaei/Forcast-Forex-With-Deep-Learning-Models) for more information.
+## إمخخب With Deep Learning Models
+
+## Blood cell cancer detection With Deep Learning Models
+Developed an advanced CNN-based model for highly accurate classification of normal blood cells. Achieved over 99% accuracy, ensuring precise identification across diverse cell types. Ideal for streamlined medical diagnostics and improved patient care. Check out the [repository](https://github.com/MahdiNavaei/Blood-Cell-Cancer-Detection) for more information.
 
 ## Books Recommendation System
 In this project, I developed a recommendation system for books using collaborative filtering and content-based filtering techniques. The system recommends books to users based on their reading history and preferences. Check out the [repository](https://github.com/MahdiNavaei/Books-Recommendation-System) for more information.
